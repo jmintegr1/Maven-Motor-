@@ -2,7 +2,7 @@ package com.qa.tests;
 
 import org.testng.annotations.Test;
 
-public class LoginTest {
+public class LoginPageTest {
 	
 	@Test
 	public void test1() {
