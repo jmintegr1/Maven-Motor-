@@ -6,9 +6,8 @@ public class LoginPage {
 		System.out.println("Login Page");
 	}
 	
-	
-	
-	
-	
+	public void enterUserName() {
+		System.out.println("Write your user name");
+	}
 
 }

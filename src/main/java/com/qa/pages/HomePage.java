@@ -9,5 +9,7 @@ public class HomePage {
 	public void landingPage() {
 		System.out.println("Our customer lands here");
 	}
+	
+	
 
 }
